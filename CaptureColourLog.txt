@@ -1,0 +1,6 @@
+Excel Green,207245
+Publisher Green,077265
+Outlook Blue,1E70B6
+Word Blue,2A5699
+Access Red,A33639
+Powerpoint Red,D24625
