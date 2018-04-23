@@ -4,7 +4,7 @@ With this Add-in all of your saved colours are available to all workbooks! Just 
 Compatibility: PC Only | Excel 2007 - 2016 | Works on 32-bit or 64-bit
 
 -----------------------------------------------------------------------------------------------------------------------------
-INSTALLATION
+## INSTALLATION
 
 • Unzip the zip file to extract the contents
 • Move the add-in to your local Microsoft AddIns directory.
@@ -22,7 +22,7 @@ If the add-in keeps disappearing when you restart Excel, follow the directions b
 Important Note: There are a few additional steps to this installation due to an Office Security Update released in July 2016.
 
 -----------------------------------------------------------------------------------------------------------------------------
-TRUST THE FOLDER LOCATION
+## TRUST THE FOLDER LOCATION
 
 The folder that the add-in file is saved in needs to be added as a Trusted Location in Excel. The instructions on how to trust 
 the folder location are below.
@@ -37,7 +37,7 @@ Press OK on the Trust Center and Excel Options menu to close the menus.
 The add-in is now in a trusted location and the add-in will appear every time you open Excel.
 
 -----------------------------------------------------------------------------------------------------------------------------
-UNBLOCK THE FILE
+## UNBLOCK THE FILE
 Some users still have issues with the add-in’s ribbon disappearing after trusting the folder location. If this happens to you, 
 you will need to Unblock the file by changing a file property.
 
