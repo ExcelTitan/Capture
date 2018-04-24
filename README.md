@@ -2,6 +2,10 @@
 With this Add-in all of your saved colours are available to all workbooks! 
 Just open the Add-in, select your saved colour and click ‘+ to recent colours’.
 
+A full list of all the tool descriptions can downloaded as a pdf here: 
+- [View online](https://github.com/ExcelTitan/CaptureColour/blob/master/CaptureColour_Instructions.pdf)
+- [Download](https://github.com/ExcelTitan/CaptureColour/raw/master/CaptureColour_Instructions.pdf)
+
 ## Compatibility: 
 - PC Only
 - Excel 2007 - 2016
