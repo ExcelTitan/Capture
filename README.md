@@ -7,20 +7,22 @@ Just open the Add-in, select your saved colour and click ‘+ to recent colours�
 - Excel 2007 - 2016
 - Works on 32-bit or 64-bit
 
-## So Easy to Use
+## So Easy to Use:
 Capture any colour on the screen (even outside the Excel app) by clicking on the colour picker, drag and release on the
 colour anywhere on the screen to capture that colour. The RGB, Hex and Long value of the captured colour will populate
 in the ‘Convert Colours’ section.
-From here you can add the captured colour to your Recent Colours Panel, save the colour to your log and even conert the colour to the RGB, Hex or Long Values
+From here you can add the captured colour to your Recent Colours Panel, save the colour to your log and even convert the colour to the RGB, Hex or Long Values
 
+### Definitions:
 ##### RGB:
-The RGB color model is an additive color model in which red, green and blue light are added together in various ways to reproduce a broad array of colors. The first value pair refers to red, the second to green and the third to blue, with decimal values ranging from 0 to 255
-
+The RGB color model is an additive color model in which red, green and blue light are added together in various ways to reproduce a broad array of colors. The first value pair refers to red, the second to green and the third to blue, with decimal values ranging from 0 to 255.  
 ##### Hex:
 A color hex code is a way of specifying color using hexadecimal values. The code itself is a hex triplet, which represents three separate values that specify the levels of the component colors. The code starts with a pound sign (#) and is followed by six hex values or three hex value pairs (for example, #AFD645). The code is generally associated with HTML and websites, viewed on a screen, and as such the hex value pairs refer to the RGB color space.
-
 #### Long:
 The long that is returned from the Interior.Color property is a decimal conversion of the typical hexidecimal numbers that we are used to seeing for colors in html e.g. Yellow in Hex is "FFFF00" but the Excel long value is 65535. 
+
+
+----
 ## Installation
 - Unzip the zip file to extract the contents
 - Move the add-in to your local Microsoft AddIns directory.
