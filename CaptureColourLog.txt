@@ -1,6 +1,33 @@
-Excel Green,207245
-Publisher Green,077265
-Outlook Blue,1E70B6
-Word Blue,2A5699
-Access Red,A33639
-Powerpoint Red,D24625
+excel - green,207245
+publisher - green,077265
+outlook - blue,1e70b6
+word - blue,2a5699
+access - red,a33639
+powerpoint - red,d24625
+wellways - gray,4d4d4c
+wellways - blue,169bcb
+deisel - gray,302c2a
+plum - purple,dda0dd
+regal - blue,1f344d
+devil - red,7f0118
+cornflower - blue,6495ed
+congress - blue,014a7f
+emerald - green,3fc380
+witch haze - yellow,fff68f
+marigold - yellow,f4f776
+corn - yellow,fef160
+tangerine - red,ff9478
+valencia - red,d64541
+old brick - red,96281b
+sandstorm - orange,f9bf3b
+casablanca - orange,f4b350
+burnt - orange,d35400
+california - orange,f89406
+chalk - purple,f1e7fe
+lavender - purple,947cb0
+wisteria - purple,9b59b6
+honey flower - purple,674172
+white smoke - grey,ececec
+mercury - grey,e8e8e8
+gun metal - grey,2C3539
+light gun metal - grey,d3d5d5
