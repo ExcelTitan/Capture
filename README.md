@@ -3,7 +3,7 @@ With this Add-in all of your saved colours are available to all workbooks!
 Just open the Add-in, select your saved colour and click ‘+ to recent colours’.
 
 ## Compatibility: 
-- PC Only
+- Windows PC only
 - Excel 2007 - 2016
 - Works on 32-bit or 64-bit
 
